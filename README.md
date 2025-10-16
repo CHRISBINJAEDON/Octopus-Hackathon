@@ -65,7 +65,7 @@ We are building toward a **Smart Wildlife Conflict Management System** with:
 ---
 
 ## 📦 Repository Structure
-
+https://github.com/CHRISBINJAEDON/Octopus-Hackathon.git
 ---
 
 ## 📽️ Demo Video & Submission

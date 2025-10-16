@@ -69,10 +69,9 @@ We are building toward a **Smart Wildlife Conflict Management System** with:
 ---
 
 ## 📽️ Demo Video & Submission
-
-Watch our AsterHacks 2025 demo: [YouTube link or placeholder]  
-Learn more: [https://asterstech.com/asterhacks](https://asterstech.com/asterhacks)
-
+https://youtu.be/PbEAqXmmCag
+https://youtu.be/j3lXH12fNAg
+https://youtu.be/7do9IEBHcwQ
 ---
 
 ## 🤝 License & Contribution

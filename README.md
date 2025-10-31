@@ -70,9 +70,9 @@ https://github.com/CHRISBINJAEDON/Octopus-Hackathon.git
 
 ## 📽️ Demo Video & Submission
 [
-https://youtu.be/PbEAqXmmCag
-https://youtu.be/Xr7gXrUQYQc
-https://youtu.be/NjBK4aRgd2k
+Presentation link https://youtu.be/eiq3EPL4qQY
+Field demo video https://youtu.be/Xr7gXrUQYQc
+Try it Out Video https://youtu.be/NjBK4aRgd2k
 https://github.com/CHRISBINJAEDON/Octopus-Hackathon.git
 
 ## 🤝 License & Contribution
